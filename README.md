@@ -1,3 +1,5 @@
+# :warning: This repository will no longer be maintained, and the official and updated version has been moved to the official [SWAT GitHub account](https://github.com/swat-model/pySWATPlus)
+
 # pySWATPlus
 pySWATPlus is a python package for running and calibrating default or custom SWAT+ projects with Python.
 
